@@ -3,11 +3,11 @@ Objective: Create a restaurant recommendation system based on user preferences.
 
 ## Overview
 
-This project implements a content-based restaurant recommendation system using data from kaggle. The system suggests restaurants based on user preferences, such as cuisine, price range, and minimum rating.
+This project implements a content-based restaurant recommendation system using data from Zomato. The system suggests restaurants based on user preferences, such as cuisine, price range, and minimum rating.
 
 ## Dataset
 
-The dataset used for this project is the `kaggle.csv` file, containing information about various restaurants, including their name, location, cuisine, price range, ratings, and more. This dataset can be uploaded to your Colab environment for using with this project.
+The dataset used for this project is the `zomato.csv` file, containing information about various restaurants, including their name, location, cuisine, price range, ratings, and more. This dataset can be uploaded to your Colab environment for using with this project.
 
 ## Methodology
 
